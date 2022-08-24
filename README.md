@@ -18,7 +18,7 @@ Django REST API for Cinema Service
 ## Installation with GitHub
 
 ```shell
-git clone https://github.com/anatomst/cinema-servise.git
+git clone https://github.com/anatomst/cinema-service.git
 python3 -m venv venv
 source venv/bin/activate (on Linux and macOS) or venv\Scripts\activate (on Windows)
 pip install -r requirements.txt
